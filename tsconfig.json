@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+	"target" : "ES2017",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "files": [
+    "main.ts"
+  ]
+}

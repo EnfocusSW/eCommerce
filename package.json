@@ -1,0 +1,17 @@
+{
+    "devDependencies": {
+        "@types/node": "16.11.6",
+        "@types/switch-scripting": "https://github.com/enfocus-switch/types-switch-scripting/archive/21.1.0.tar.gz"
+    },
+    "license": "UNLICENSED",
+    "name": "ecommerce",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "js2xmlparser": "^4.0.2",
+        "jsonxml": "^1.0.0",
+        "switchecommerce": "^1.0.0",
+        "tmp": "^0.2.1"
+    }
+}

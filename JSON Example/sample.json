@@ -1,0 +1,30 @@
+{
+  "orderId": 849957,
+  "filename": "https://enfocus-switch.weebly.com/uploads/1/4/0/0/140093559/big_sale_sticker.pdf",
+  "carrierName": "DHL",
+  "dispatchDate": "2021-12-10",
+  "address": {
+    "to": {
+      "lastname": "Doe",
+      "company": "SoundTrack",
+      "firstname": "Jane",
+      "address1": "Ings Lane",
+      "address2": "60",
+      "postcode": "TQ11 4RZ",
+      "city": "DEAN PRIOR",
+      "country": "GB",
+      "phone": "078 5496 0217"
+    }
+  },
+  "product": {
+    "productName": "Stickers",
+    "quantity": 200,
+    "attributes": {
+      "material": "permanent",
+      "print_color": "high_quality",
+      "print_type": "single_sided",
+      "size_height": "750",
+      "size_width": "1250"
+    }
+  }
+}
